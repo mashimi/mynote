@@ -1,0 +1,2 @@
+# mynote
+all the notes 
